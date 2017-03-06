@@ -1,0 +1,21 @@
+
+
+.message2 {
+  color: red;
+  font-size: 14px;
+}
+a2 {
+  margin: 0 20px 0 0;
+  font-weight: bold;
+}
+
+.message {
+  color: red;
+}
+li.li {
+  display: inline-block;
+  background: #F1F1F1;
+  width: 60px;
+  height: 60px;
+  margin: 5px 0 0 10px;
+}
